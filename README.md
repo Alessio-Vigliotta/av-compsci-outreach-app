@@ -41,8 +41,8 @@ To run this project locally on your machine, follow these steps:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+https://github.com/Alessio-Vigliotta/av-compsci-outreach-app.git
+cd av-compsci-outreach-app
 
 ```
 
