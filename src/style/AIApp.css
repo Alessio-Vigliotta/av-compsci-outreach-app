@@ -1,0 +1,48 @@
+.ai-app-container {
+  padding: 20px;
+  color: white;
+}
+
+.back-button {
+  margin-bottom: 20px;
+  padding: 8px 16px;
+  cursor: pointer;
+  background-color: #334155;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.back-button:hover {
+  color: #ff0000;
+}
+
+.animal-grid {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.animal-card {
+  border: 1px solid #475569;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+  width: 80px;
+  background-color: #1e293b;
+}
+
+.animal-icon {
+  font-size: 2rem;
+}
+
+.animal-dropdown {
+  margin-top: 20px;
+  padding: 8px;
+  background-color: #334155;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
